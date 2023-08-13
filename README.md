@@ -5,7 +5,7 @@ Certainly! Here's a template for a README file for Exploratory Data Analysis (ED
 ![image](https://github.com/ipratham7/EDA/assets/64377030/fd273a97-d049-4c2a-816d-c6bd36179a61)
 
 ## Introduction
-Welcome to the Exploratory Data Analysis (EDA) process for all above Datasets. In this repository, we will explore and analyze the [brief description of the dataset] dataset to gain valuable insights and inform decision-making. The purpose of this EDA is to uncover patterns, relationships, and trends within the data, and to prepare it for further analysis or modeling.
+Welcome to the Exploratory Data Analysis (EDA) process for all above Datasets. In this repository, we will explore and analyze the  dataset to gain valuable insights and inform decision-making. The purpose of this EDA is to uncover patterns, relationships, and trends within the data, and to prepare it for further analysis or modeling.
 
 ## Steps for EDA
 1. **Understand the Data:**
@@ -59,11 +59,9 @@ Welcome to the Exploratory Data Analysis (EDA) process for all above Datasets. I
 ## Contributing
 Contributions to this EDA are welcome! If you find issues or ways to enhance the analysis, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
-- [Credits or references to data sources or inspirations]
+Inspiration by Krish Naik
+Krish Naik, a pioneer in machine learning, deep learning, and computer vision, has ignited the world of AI education. With a decade of expertise, Krish passionately shares knowledge through his YouTube channel. He's impacted countless lives, simplifying complex concepts and delivering insightful tech talks. His commitment to accessible learning and innovation is truly inspiring. Connect with Krish Naik on his journey of AI exploration.
 
 ## Contact
 For any questions or feedback, please contact Pratham Kataria at prathamkataria99@gmail.com
